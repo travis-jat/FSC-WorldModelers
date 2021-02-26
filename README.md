@@ -27,7 +27,7 @@ unzip 'psd_grains_pulses_csv.zip'
 
 ### Step 3: Install the required R Packages
 ```
-rscript main/Requirements.R
+Rscript main/Requirements.R
 ```
 
 ### Step 4: Prepare the input data
