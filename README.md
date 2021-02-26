@@ -56,7 +56,7 @@ To run a simulation you need to specify 1) the version of the FSC, 2) select a s
 
 You can run a dynamic simulation with something like the following:
 ```
-rscript main/main.R 0 1 0.5
+Rscript main/main.R 0 1 0.5
 ```
 In this case, we have chosen the following parameters:
 
